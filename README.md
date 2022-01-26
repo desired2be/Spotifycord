@@ -35,7 +35,7 @@ client.on("ready", () => {
 client.login(TOKEN);
 ```
 
-This Code is from [this tutorial](https://youtube.com). If you have any doubts regarding this, feel free to [contact me](https://dsc.gg/phantom).
+This Code is from [this tutorial](https://youtu.be/pgOu6GMF7YI). If you have any doubts regarding this, feel free to [contact me](https://dsc.gg/phantom).
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
