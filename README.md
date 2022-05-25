@@ -35,11 +35,11 @@ client.on("ready", () => {
 client.login(TOKEN);
 ```
 
-This Code is from [this tutorial]([https://youtu.be/vtCx86mYES4)). If you have any doubts regarding this, feel free to [contact me](https://dsc.gg/phantom).
+This Code is from [this tutorial]([https://youtu.be/vtCx86mYES4)). If you have any doubts regarding this, feel free to [contact us](https://dsc.gg/khuZvpDgYB).
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
-Put your token as a secret on the replit
+Put your token as a secret on the replit.
 
 Use [uptimerobot.com](https://uptimerobot.com) to make your repl online 24/7.
 
